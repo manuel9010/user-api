@@ -1,4 +1,4 @@
-El proyecto se desarrollo utlizando la tecnologia de spring boot ,  e implmentando los modulos de spring web  y security con jwt como base , para la persitencia se utilizo jpa con hibernate.
+El proyecto se desarrollo utlizando la tecnologia de spring boot ,  e implmentando los modulos de spring web  y security con jwt como base , para la persitencia se utilizo jpa con hibernate. Lo puede importar en eclipse y ejecutar la clase principal UserApiApplication.java
 
 La arquitectura del proyecto con la cual se organizo fue por capas:
 
